@@ -1,16 +1,9 @@
 # tugas1_praktikum_mobile
 
-membuat aplikasi dengan ketentuan
+membuat aplikasi dengan ketentuan :
+1. Terdapat AppBar
+2. Terdapat 2 button
+3. Terdapat lebih dari 3 gambar dari direktori (bukan internet)
+4. Implementasi Single Scroll Child/List View/Grid View
+5. Implementasi Text (Nama dan NIM) dan TextField
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
