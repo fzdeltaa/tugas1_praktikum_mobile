@@ -7,3 +7,4 @@ membuat aplikasi dengan ketentuan :
 4. Implementasi Single Scroll Child/List View/Grid View
 5. Implementasi Text (Nama dan NIM) dan TextField
 
+Terdapat dua tombol yang pertama untuk masuk halaman galeri, dan untuk keluar galeri (terdapat di appbar)
