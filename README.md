@@ -8,3 +8,8 @@ membuat aplikasi dengan ketentuan :
 5. Implementasi Text (Nama dan NIM) dan TextField
 
 Terdapat dua tombol yang pertama untuk masuk halaman galeri, dan untuk keluar galeri (terdapat di appbar)
+
+-----
+Faza Denandra
+
+123210111
